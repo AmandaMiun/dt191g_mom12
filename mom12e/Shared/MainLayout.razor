@@ -1,0 +1,59 @@
+﻿@inherits LayoutComponentBase
+
+@{
+    var student = "Amanda Abrahamsson";
+    var email = "amab2201@student.miun.se";
+
+    var date = DateTime.Now.ToString("yyyy-mm-dd");
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inlämningsuppgift_12_blazor</title>
+    <link rel="stylesheet" href="~/css/app.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header>
+
+        <p class="date">Dagens datum är: @date</p>
+    </header>
+
+    
+    <div class="mainContainer">
+        <nav>
+            <ul>
+                <li>
+                    <NavLink class="navLi" href="" Match="NavLinkMatch.All">
+                       Startsida
+                    </NavLink>
+                </li>
+                <li>
+                    <NavLink class="navLi" href="convert">
+                       Konvertering
+                    </NavLink>
+                </li>
+                <li>
+                    <NavLink class="navLi" href="json">
+                         JSON
+                    </NavLink>
+                 </li>
+            </ul>
+        </nav>
+
+        <main>
+            @Body
+        </main>
+        </div>
+
+    <footer>
+        <p id="mailto">Av @student - Kontakta mig via epost: @email</p>
+    </footer>
+
+</body>
+
+</html>

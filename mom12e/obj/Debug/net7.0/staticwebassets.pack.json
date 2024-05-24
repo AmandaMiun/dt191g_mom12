@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\obj\\Debug\\net7.0\\build-gz\\cLuwu37w.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Webbutveckling\\Utbildning\\webbutveckling_2022-2024_miu\\Arbeten\\DT191G_webbutveckling_med_dotnet\\Moment 1 - grunderna i dotnet\\Inlämningsuppgift\\mom12e\\mom12e\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.mom12e.props",
+      "PackagePath": "build\\mom12e.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.mom12e.props",
+      "PackagePath": "buildMultiTargeting\\mom12e.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.mom12e.props",
+      "PackagePath": "buildTransitive\\mom12e.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.mom12e.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

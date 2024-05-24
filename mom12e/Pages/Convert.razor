@@ -1,0 +1,37 @@
+﻿@page "/convert"
+
+<PageTitle>Konvertering</PageTitle>
+
+<h1>Konvertering</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
+
+
+<h1>Konvertering</h1>
+<h2>Meter till fot:</h2>
+<form>
+    <label for="meters">Antal meter:</label>
+    <input type="text" id="meters" name="meters">
+    <input type="submit" id="submitOne" />
+</form>
+<p>Svaret är fot.</p>
+
+
+<h2>Km/h till miles/h:</h2>
+<form>
+    <label for="kilometers">Kilometer i timmen:</label>
+    <input type="text" id="kilometers" name="kilometers">
+    <input type="submit" id="submitTwo" />
+</form>
+<p>Svaret är miles/h.</p>
